@@ -29,7 +29,7 @@
 	margin-left: 0px;
 	color: #444;
 	font-size: 13px;
-	border-left: 1px solid #cf455c;
+	border-left: 1px solid #df020a;
 	padding-left: 15px;
 }
 
@@ -123,7 +123,7 @@
 }
 
 #resume .button:hover {
-	background-color:#cf455c;
+	background-color:#df020a;
 }
 
 /*-------------------------------------------------------*/

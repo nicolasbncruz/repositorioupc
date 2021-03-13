@@ -22,7 +22,7 @@
 /* Contact info */
 .contact-info ul {
 	float: left;
-	border-left: 1px solid #cf455c;
+	border-left: 1px solid #df020a;
 	padding-left: 18px;
 }
 
@@ -96,7 +96,7 @@ form p label {
 }
 
 .button:hover {
-	background-color:#cf455c;
+	background-color:#df020a;
 }
 
 /*-------------------------------------------------------*/
